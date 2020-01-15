@@ -1,2 +1,2 @@
 src_url,vcs,name,web_url,description
-https://github.com/facebook/zstd,git,facebook/zstd,,
+https://github.com/facebook/zstd,git,ZSTD,https://facebook.github.io/zstd/,"Zstandard is a real-time compression algorithm, providing high compression ratios."
