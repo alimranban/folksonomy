@@ -1,2 +1,2 @@
 src_url,vcs,name,web_url,description
-https://github.com/curl/curl,git,curl/curl,,
+https://github.com/curl/curl,git,Curl,https://curl.haxx.se/,curl is used in command lines or scripts to transfer data. It is also used in cars, television sets, routers, printers, audio equipment, mobile phones, tablets, settop boxes, media players and is the internet transfer backbone for thousands of software applications affecting billions of humans daily.
