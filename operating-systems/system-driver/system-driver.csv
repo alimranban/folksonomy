@@ -1,6 +1,6 @@
 src_url,vcs,name,web_url,description
-https://github.com/arendst/Tasmota,git,arendst/Tasmota,,
-https://github.com/qmk/qmk_firmware,git,QMK Firmware,,
-https://github.com/zfsonlinux/zfs,git,zfsonlinux/zfs,,
-https://github.com/tmk/tmk_keyboard,git,tmk_keyboard,,Keyboard firmwares for Atmel AVR and Cortex-M
+https://github.com/arendst/Tasmota,git,Tasmota,,"http://thehackbox.org/tasmota/release/"
+https://github.com/qmk/qmk_firmware,git,QMK Firmware,https://qmk.fm/,"QMK is developed and maintained by Jack Humbert of OLKB with contributions from the community, and of course, Hasu."
+https://github.com/zfsonlinux/zfs,git,ZFS,https://zfsonlinux.org/,"ZFS on Linux is an advanced file system and volume manager which was originally developed for Solaris and is now maintained by the OpenZFS community."
+https://github.com/tmk/tmk_keyboard,git,tmk_keyboard,http://github.com/tmk/tmk_keyboard,Keyboard firmwares for Atmel AVR and Cortex-M
 https://github.com/microsoft/Windows-driver-samples,git,Windows driver samples,https://docs.microsoft.com/en-us/windows-hardware/drivers/,Driver samples prepared for use with Microsoft Visual Studio and the Windows Driver Kit (WDK).
