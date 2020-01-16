@@ -1,33 +1,33 @@
 src_url,vcs,name,web_url,description
 https://github.com/twbs/bootstrap,git,Bootstrap,https://getbootstrap.com/,"The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web."
-https://github.com/ant-design/ant-design,git,ant-design/ant-design,,
-https://github.com/mui-org/material-ui,git,Material-UI,,
-https://github.com/storybookjs/storybook,git,storybookjs/storybook,,
-https://github.com/vuetifyjs/vuetify,git,vuetifyjs/vuetify,,
-https://github.com/angular/components,git,angular/components,,
-https://github.com/codemirror/CodeMirror,git,codemirror/CodeMirror,,
-https://github.com/atlassian/react-beautiful-dnd,git,atlassian/react-beautiful-dnd,,
-https://github.com/react-bootstrap/react-bootstrap,git,react-bootstrap/react-bootstrap,,
-https://github.com/ianstormtaylor/slate,git,ianstormtaylor/slate,,
-https://github.com/palantir/blueprint,git,palantir/blueprint,,
-https://github.com/material-components/material-components-web,git,material-components/material-components-web,,
-https://github.com/ampproject/amphtml,git,AMP,,
-https://github.com/handsontable/handsontable,git,handsontable/handsontable,,
-https://github.com/youzan/vant,git,youzan/vant,,
-https://github.com/Semantic-Org/Semantic-UI-React,git,Semantic-Org/Semantic-UI-React,,
-https://github.com/bootstrap-vue/bootstrap-vue,git,bootstrap-vue/bootstrap-vue,,
-https://github.com/airbnb/react-dates,git,airbnb/react-dates,,
-https://github.com/wenzhixin/bootstrap-table,git,wenzhixin/bootstrap-table,,
-https://github.com/tannerlinsley/react-table,git,tannerlinsley/react-table,,
-https://github.com/ether/etherpad-lite,git,ether/etherpad-lite,,
-https://github.com/simple-icons/simple-icons,git,simple-icons/simple-icons,,
-https://github.com/OfficeDev/office-ui-fabric-react,git,OfficeDev/office-ui-fabric-react,,
-https://github.com/ag-grid/ag-grid,git,ag-grid/ag-grid,,
-https://github.com/primefaces/primeng,git,primefaces/primeng,,
-https://github.com/wix/react-native-calendars,git,wix/react-native-calendars,,
-https://github.com/ckeditor/ckeditor4,git,ckeditor/ckeditor4,,
-https://github.com/Hacker0x01/react-datepicker,git,Hacker0x01/react-datepicker,,
-https://github.com/adazzle/react-data-grid,git,adazzle/react-data-grid,,
+https://github.com/ant-design/ant-design,git,Ant Design,https://ant.design,"An enterprise-class UI design language and React UI library."
+https://github.com/mui-org/material-ui,git,Material-UI, https://material-ui.com/,"React components for faster and easier web development. Build your own design system, or start with Material Design."
+https://github.com/storybookjs/storybook,git,Storybook,https://storybook.js.org,"Storybook is a development environment for UI components. It allows you to browse a component library, view the different states of each component, and interactively develop and test components."
+https://github.com/vuetifyjs/vuetify,git,Vuetify,https://vuetifyjs.com,"Vuetify is a Material Design Component Framework for the Vue framework.Vuetify is expansive, powerful and provides tools required for large, robust applications."
+https://github.com/angular/components,git,Angular,https://material.angular.io,"The Angular team builds and maintains both common UI components and tools to help you build your own custom components."
+https://github.com/codemirror/CodeMirror,git,CodeMirror,http://codemirror.net/,"CodeMirror is a versatile text editor implemented in JavaScript for the browser. It is specialized for editing code, and comes with over 100 language modes and various addons that implement more advanced editing functionality."
+https://github.com/atlassian/react-beautiful-dnd,git,react-beautiful-dnd (rbd),https://react-beautiful-dnd.netlify.com,"Beautiful and accessible drag and drop for lists with React"
+https://github.com/react-bootstrap/react-bootstrap,git,React-Bootstrap,https://react-bootstrap.github.io/,"Bootstrap 4 components built with React."
+https://github.com/ianstormtaylor/slate,git,Slate,http://slatejs.org,"A completely customizable framework for building rich text editors."
+https://github.com/palantir/blueprint,git,Blueprint,https://blueprintjs.com/,"Blueprint is a React-based UI toolkit for the web.It is optimized for building complex, data-dense web interfaces for desktop applications which run in modern browsers and IE11.".
+https://github.com/material-components/material-components-web,git,Material Components for the web,https://material.io/develop/web,"Material Components for the web (MDC Web) helps developers execute Material Design"
+https://github.com/ampproject/amphtml,git,AMP,https://amp.dev,"AMP is a web component framework for easily creating user-first websites, stories, ads, emails and more."
+https://github.com/handsontable/handsontable,git,Handsontable,https://handsontable.com,"Handsontable is a JavaScript/HTML5 data grid component with spreadsheet look & feel.It provides easy data binding, data validation, filtering, sorting and CRUD operations."
+https://github.com/youzan/vant,git,Vant,https://youzan.github.io/vant,"Lightweight Mobile UI Components built on Vue"
+https://github.com/Semantic-Org/Semantic-UI-React,git,Semantic UI React,https://react.semantic-ui.com,"The official Semantic-UI-React integration"
+https://github.com/bootstrap-vue/bootstrap-vue,git,BootstrapVue,https://bootstrap-vue.js.org,"BootstrapVue, with over 40 plugins, more than 80 custom components and over 300 icons, provides one of the most comprehensive implementations of Bootstrap v4 components and grid system for Vue.js. With extensive and automated WAI-ARIA accessibility markup."
+https://github.com/airbnb/react-dates,git,react-dates,http://airbnb.io/react-dates,"An easily internationalizable, accessible, mobile-friendly datepicker library for the web."
+https://github.com/wenzhixin/bootstrap-table,git,Bootstrap Table,https://bootstrap-table.com/,"An extended Bootstrap table with radio, checkbox, sort, pagination, extensions and other added features."
+https://github.com/tannerlinsley/react-table,git,react-table ,N/A,"Hooks for building lightweight, fast and extendable datagrids for React"
+https://github.com/ether/etherpad-lite,git,Etherpad,https://etherpad.org,"A real-time collaborative editor for the web"
+https://github.com/simple-icons/simple-icons,git,Simple Icons,https://simpleicons.org,"Free SVG icons for popular brands"
+https://github.com/OfficeDev/office-ui-fabric-react,git,Office UI Fabric React,https://developer.microsoft.com/en-us/fabric/#/components,"The React-based front-end framework for building experiences for Office and Office 365."
+https://github.com/ag-grid/ag-grid,git,ag-Grid,http://www.ag-grid.com,"ag-Grid is a fully-featured and highly customizable JavaScript data grid"
+https://github.com/primefaces/primeng,git,PrimeNG,https://www.primefaces.org/primeng,"PrimeNG is a collection of rich UI components for Angular. All widgets are open source and free to use under MIT License."
+https://github.com/wix/react-native-calendars,git,React Native Calendars,N/A,"React Native Calendar Components calendar"
+https://github.com/ckeditor/ckeditor4,git,CKEditor 4,https://ckeditor.com/ckeditor-4,"A highly configurable WYSIWYG HTML editor with hundreds of features, from creating rich text content with captioned images, videos, tables, media embeds, emoji or mentions to pasting from Word and Google Docs and drag&drop image upload."
+https://github.com/Hacker0x01/react-datepicker,git,React Date Picker,https://reactdatepicker.com/,"A simple and reusable Datepicker component for React"
+https://github.com/adazzle/react-data-grid,git,React Data Grid, http://adazzle.github.io/react-data-grid/,"Excel-like grid component built with React, with editors, keyboard navigation, copy & paste, and the like"
 https://github.com/LLK/scratch-gui,git,Scratch GUI,,A set of React components that comprise the interface for creating and running Scratch 3.0 projects.
 https://github.com/alexanmtz/material-sense,git,Material Sense,https://alexanmtz.github.io/material-sense,"A React Material UI template to create rich applications with wizards, charts and ranges"
 https://github.com/probablyup/markdown-to-jsx,git,markdown-to-jsx,https://probablyup.com/markdown-to-jsx/,"The most lightweight, customizable React markdown component. It takes Github-flavored Markdown (GFM) and makes native JSX without dangerous hacks."
