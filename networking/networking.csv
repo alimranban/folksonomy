@@ -1,17 +1,17 @@
 src_url,vcs,name,web_url,description
-https://github.com/containous/traefik,git,containous/traefik,,
-https://github.com/certbot/certbot,git,certbot/certbot,,
-https://github.com/v2ray/v2ray-core,git,v2ray/v2ray-core,,
-https://github.com/Kong/kong,git,Kong/kong,,
-https://github.com/openssl/openssl,git,openssl/openssl,,
-https://github.com/envoyproxy/envoy,git,Envoy,,
-https://github.com/openwrt/openwrt,git,OpenWrt,,
-https://github.com/secdev/scapy,git,secdev/scapy,,
-https://github.com/OpenVPN/openvpn,git,OpenVPN/openvpn,,
-https://github.com/FreeRDP/FreeRDP,git,FreeRDP/FreeRDP,,
+https://github.com/containous/traefik,git,Traefik,https://docs.traefik.io/,"Traefik (pronounced traffic) is a modern HTTP reverse proxy and load balancer that makes deploying microservices easy."
+https://github.com/certbot/certbot,git,Certbot,https://certbot.eff.org/,"Certbot is part of EFF’s effort to encrypt the entire Internet."
+https://github.com/v2ray/v2ray-core,git,Project V,https://www.v2ray.com/,"Project V is a set of network tools that help you to build your own computer network. It secures your network connections and thus protects your privacy."
+https://github.com/Kong/kong,git,Kong,https://konghq.com/,"Kong is a cloud-native, fast, scalable, and distributed Microservice Abstraction Layer (also known as an API Gateway, API Middleware or in some cases Service Mesh)."
+https://github.com/openssl/openssl,git,OpenSSL,https://www.openssl.org/,"The OpenSSL Project is a collaborative effort to develop a robust."
+https://github.com/envoyproxy/envoy,git,Envoy,https://www.cncf.io/,"Envoy is hosted by the Cloud Native Computing Foundation (CNCF)."
+https://github.com/openwrt/openwrt,git,OpenWrt,http://www.openwrt.org,"The OpenWrt Project is a Linux operating system targeting embedded devices."
+https://github.com/secdev/scapy,git,Scapy,https://scapy.net/,"Scapy is a powerful Python-based interactive packet manipulation program and library."
+https://github.com/OpenVPN/openvpn,git,OpenVPN,https://openvpn.net/,"The OpenVPN Management interface allows OpenVPN to be administratively controlled from an external program via a TCP or unix domain socket."
+https://github.com/FreeRDP/FreeRDP,git,FreeRDP,https://www.freerdp.com/,"FreeRDP is a free implementation of the Remote Desktop Protocol (RDP), released under the Apache license."
 https://github.com/warmcat/libwebsockets,git,Libwebsockets (LWS),https://libwebsockets.org/,"A flexible, lightweight pure C library for implementing modern network protocols easily with a tiny footprint, using a nonblocking event loop."
 https://github.com/pfsense/pfsense,git,pfSense,https://www.pfsense.org/,"A free network firewall distribution, based on the FreeBSD operating system with a custom kernel and including third party free software packages for additional functionality."
-https://github.com/openwrt/luci,git,LuCI,,OpenWrt Configuration Interface
-https://github.com/openvswitch/ovs,git,Open vSwitch,,A multilayer software switch.
-https://github.com/openssh/openssh-portable,git,Portable OpenSSH,,"A port of OpenBSD's OpenSSH to most Unix-like operating systems, including Linux, OS X and Cygwin. Portable OpenSSH polyfills OpenBSD APIs that are not available elsewhere, adds sshd sandboxing for more operating systems and includes support for OS-native authentication and auditing (e.g. using PAM)."
+https://github.com/openwrt/luci,git,LuCI,https://openwrt.org/,"This is the OpenWrt "luci"-feed containing LuCI - OpenWrt Configuration Interface."
+https://github.com/openvswitch/ovs,git,Open vSwitch,https://www.openvswitch.org/,"Open vSwitch is a multilayer software switch licensed under the open source Apache 2 license."
+https://github.com/openssh/openssh-portable,git,Portable OpenSSH,https://www.openssh.com/portable.html,"A port of OpenBSD's OpenSSH to most Unix-like operating systems, including Linux, OS X and Cygwin. Portable OpenSSH polyfills OpenBSD APIs that are not available elsewhere, adds sshd sandboxing for more operating systems and includes support for OS-native authentication and auditing (e.g. using PAM)."
 https://github.com/openstack/nova,git,OpenStack Compute (nova),https://docs.openstack.org/nova/latest/,"A cloud computing fabric controller, supporting a wide variety of compute technologies, including: libvirt (KVM, Xen, LXC and more), Hyper-V, VMware, XenServer, OpenStack Ironic and PowerVM."
